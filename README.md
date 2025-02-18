@@ -73,6 +73,10 @@ When you run the program, it will simulate a die roll and print the result to
 the console. Feel free to modify `die/die.py` to adjust the behavior or add new 
 features.
 
+## Program Output Screenshot
+
+![Dice Program Output](screenshots/dice_program.png)
+
 ## Contributing
 
 If you wish to contribute, please fork the repository and submit a pull 
